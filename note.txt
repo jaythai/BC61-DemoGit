@@ -6,3 +6,4 @@
 5. Lệnh giúp kết nối remote repo với local repo : git remote add origin (url cyar remote repo)
 6. Lệnh giúp đẩy code từ local repo lên remote repo : 2 trường hợp xảy ra, nếu là lần đầu tiên từ local repo đẩy lên github thì sẽ
 là git push -u origin (tên nhánh: main hoặc master) : git push
+7. Lệnh giúp clone (lấy một bản sao) một dự án từ trên github về máy tính : git clone (url của remote repo)
