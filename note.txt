@@ -8,3 +8,4 @@
 là git push -u origin (tên nhánh: main hoặc master) : git push
 7. Lệnh giúp clone (lấy một bản sao) một dự án từ trên github về máy tính : git clone (url của remote repo)
 8. Lệnh giúp lấy sự thay đổi mới nhất từ remote repo về máy tính : git pull origin (tên nhánh remote repo)
+9. File .gitignore giúp hổ trợ trong việc có một số file hoặc thư mục không muốn đẩy lên remote repo 
