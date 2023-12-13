@@ -16,3 +16,4 @@ là git push -u origin (tên nhánh: main hoặc master) : git push
 11. Lệnh giúp chuyển nhánh: git checkout (tên nhánh muốn chuyển)
 12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới : git checkout -b (tên nhánh mới)
 13. toi da sai 
+14. toi biet lam roi
